@@ -1,0 +1,62 @@
+/*
+accent 1 blue: #3C7AE6
+accent 2 purple: #3C44E6
+*/
+
+body {
+    background-color: #FFFFFF;
+    padding: 0 24px 36px 24px;
+}
+
+h1, h2, h3 {
+    color: #3C7AE6;
+}
+
+h1 {
+    text-align: center;
+}
+
+th,td{
+    border: #3C44E6 solid 3px;
+    padding: 8px;
+}
+
+table{
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a{
+    color:#3C7AE6;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #3C44E6;
+}
+
+p, li, table{
+    font-size: 1.2em;
+}
+
+
+p.style {
+    background-color:#3C7AE6;
+    color: #FFFFFF;
+    padding: 72px;
+    border: #3C44E6 solid 3px;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div {
+    background-color:#3C7AE6; 
+    width: 646px;
+    padding: 72px;
+    border: #3C44E6 dotted 3px;
+    margin-left: auto;
+    margin-right: auto;
+}

@@ -1,1 +1,50 @@
+/*
+dark green: #516145
+light green: #D4E0BA
+Light pink: #F0B6DD
+pink: #9B6D8C
+dark pink: #382538
 
+*/
+
+
+body {
+    background-color: #D4E0BA;
+    padding: 0 24px 36px 24px;
+}
+
+a{
+    color:#9B6D8C;
+    font-weight: bold;
+}
+
+a:hover{
+    color: #F0B6DD;
+}
+
+h1, h2 {
+    color: #382538;
+}
+
+h1 {
+    text-align: center;
+}
+
+p.picture {
+    text-align: center;
+}
+
+p, li, table{
+    font-size: 1.2em;
+}
+
+th,td{
+    border: #516145 solid 4px;
+    padding: 10px;
+}
+
+table{
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
